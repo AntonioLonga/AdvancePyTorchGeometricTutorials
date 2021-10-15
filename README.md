@@ -11,5 +11,5 @@ Feel free to join our weekly online tutorial! For more details, have a look at t
 
 ### Tutorials:
 
-* Tutorial1: [Open Graph Benchmark](#) - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AntonioLonga/AdvancePyTorchGeometricTutorial/blob/main/Tutorial1/Tutorial1.ipynb)
+* Tutorial1: [Open Graph Benchmark](#) - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AntonioLonga/AdvancePyTorchGeometricTutorials/blob/main/Tutorial1/Tutorial_1.ipynb)
 
