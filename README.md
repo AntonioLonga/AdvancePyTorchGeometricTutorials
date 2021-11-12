@@ -13,4 +13,5 @@ Feel free to join our weekly online tutorial! For more details, have a look at t
 
 * Tutorial1: [Open Graph Benchmark](https://youtu.be/DOFM2e_o5lU) - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AntonioLonga/AdvancePyTorchGeometricTutorials/blob/main/Tutorial1/Tutorial_1.ipynb)
 * Tutorial2: GraphGym
+* Tutorial2: Price Graphs: Utilizing the structural information of ﬁnancial time series for stock prediction
 
