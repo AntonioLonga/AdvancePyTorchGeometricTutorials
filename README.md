@@ -16,4 +16,5 @@ Feel free to join our weekly online tutorial! For more details, have a look at t
 * Tutorial3: [Price Graphs](https://youtu.be/QTvb8m_7KUE): Utilizing the structural information of ﬁnancial time series for stock prediction
 * Tutorial4: [Heterogeneous graph learning](https://youtu.be/qL09oshDKww)
 * Tutorial5: Advance mini-batching: Basics and an example with bipartite graphs - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AntonioLonga/AdvancePyTorchGeometricTutorials/blob/main/Tutorial5/Tutorial_5.ipynb)
+* Tutorial6: Memory efficient aggregations - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AntonioLonga/AdvancePyTorchGeometricTutorials/blob/main/Tutorial6/Tutorial[6.ipynb)
 
