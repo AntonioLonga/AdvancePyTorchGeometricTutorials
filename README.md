@@ -19,7 +19,7 @@ Feel free to join our weekly online tutorial! For more details, have a look at t
 
 * Tutorial4: [Heterogeneous graph learning](https://youtu.be/qL09oshDKww)
 
-* Tutorial5: Advance mini-batching: Basics and an example with bipartite graphs - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AntonioLonga/AdvancePyTorchGeometricTutorials/blob/main/Tutorial5/Tutorial_5.ipynb)
+* Tutorial5: Advanced mini-batching: Basics and an example with bipartite graphs - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AntonioLonga/AdvancePyTorchGeometricTutorials/blob/main/Tutorial5/Tutorial_5.ipynb)
 
 * Tutorial6: Memory efficient aggregations - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AntonioLonga/AdvancePyTorchGeometricTutorials/blob/main/Tutorial6/Tutorial6.ipynb)
 
